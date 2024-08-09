@@ -1,0 +1,13 @@
+filename = 'paladin-furniture-mod-1.2.1-forge-mc1.20.1.jar'
+name = "Paladin's Furniture Mod"
+side = 'both'
+
+[download]
+hash = '59505ef55335a47890e1ec2a34954b04f27d399cf4cd1828366e558d52a9a78ea89d1434eadfad6507cc1f9d8a0a80a73d8fac3d751a708d570b2e3b342df5ad'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SISz7Qd3/versions/xVZBZ4ol/paladin-furniture-mod-1.2.1-forge-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SISz7Qd3'
+version = 'xVZBZ4ol'
