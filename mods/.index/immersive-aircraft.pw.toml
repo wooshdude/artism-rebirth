@@ -1,0 +1,16 @@
+filename = 'immersive_aircraft-1.1.8+1.20.1-forge.jar'
+name = 'Immersive Aircraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '53d78a615dc0c762c8566848ddcd499729565209dd9d3198feb3e5ac4044ab3442a77fd7cd2a2466dd7845243e926735154d9c5996c1cd11fef4e985eb0a96c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x3HZvrj6/versions/BuPtsmaI/immersive_aircraft-1.1.8%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'x3HZvrj6'
+version = 'BuPtsmaI'
